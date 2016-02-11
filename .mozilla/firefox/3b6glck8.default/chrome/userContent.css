@@ -1,5 +1,0 @@
-@-moz-document url("about:preferences"), url("about:home"), url("about:newtab") {
-    .activity-stream {
-        background: DimGrey !important;
-    }
-}
