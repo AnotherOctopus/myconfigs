@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CLion
+Icon=/home/zhukov/Tools/CLion/bin/clion.svg
+Exec="/home/zhukov/Tools/CLion/bin/clion.sh" %f
+Comment=The Drive to Develop
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-clion
+OnlyShowIn=Old;
