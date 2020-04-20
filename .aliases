@@ -1,25 +1,11 @@
 alias addalias="vim ~/.aliases"
 
-alias eedom="echo ecegrid.ecn.purdue.edu"
-alias log477="ssh 477grp6@ecegrid.ecn.purdue.edu"
-alias logEE="ssh li1735@ecegrid.ecn.purdue.edu"
-alias logIEEE="ssh chuikov@leyden.ecn.purdue.edu"
-
 
 alias ff="firefox > /dev/null 2>&1 & disown"
 alias cln="$TOOLS/CLion/bin/clion.sh 2>&1 & disown"
-alias ecl="$TOOLS/eclipse/eclipse 2>&1 & disown"
-alias sub="$TOOLS/sublime_text_3/sublime_text"
-alias pyc="$TOOLS/PyCharm/bin/pycharm.sh 2>&1 & disown"
-alias web="$TOOLS/WebStorm-173.4301.22/bin/webstorm.sh 2>&1 & disown"
-alias gol="$TOOLS/GoLand/bin/goland.sh 2>&1 & disown"
 alias egl="$TOOLS/Eagle/eagle 2>&1 & disown"
-alias slk="slack > /dev/null 2>&1 & disown"
-alias fls="nautilus --browser > /dev/null 2>&1 & disown"
 
-alias ipad="$TOOLS/ipad_charge/ipad_monitor.sh R > /dev/null & disown"
 
-alias pyact="source venv/bin/activate"
 alias pof="sudo shutdown -h now"
 alias path="export PATH=$PATH:."
 

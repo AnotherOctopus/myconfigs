@@ -20,5 +20,3 @@ fi
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
-export GOPATH=/home/zhukov/Projects/rov/XX-Core/surface/pakfront/
-export PATH="$PATH:/home/zhukov/Projects/rov/XX-Core/surface/pakfront/bin"

@@ -109,11 +109,3 @@ fi
 
 
 source $HOME/.aliases
-export GOPATH=$HOME/Projects/go
-export IDF_PATH=$HOME/Projects/senior/esp/esp-idf
-export OPENCV_DIR=$HOME/Builds/opencvbuild
-export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:$GOPATH/bin
-export PATH="$PATH:$HOME/Projects/senior/esp/xtensa-esp32-elf/bin"
-export JAVA_HOME=/usr/lib/jvm/java-9-openjdk-amd64
-export PATH=$PATH:$HOME/Projects/musicget
