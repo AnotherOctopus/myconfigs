@@ -17,3 +17,14 @@ let g:ctrlp_match_window = 'bottom,order:ttb'
 let g:ctrlp_switch_buffer = 0
 let g:ctrlp_working_path_mode = 0
 let g:ctrlp_user_command = 'ag %s -l --nocolor --hidden -g ""'
+
+:command WQ wq
+:command Wq wq
+:command W w
+:command Q q
+nnoremap ] :tabn<ENTER>
+nnoremap [ :tabp<ENTER>
+nnoremap \ :tabe<Space>
+
+set swapfile
+set dir=/tmp
